@@ -15,7 +15,7 @@ Add it in your root build.gradle at the end of repositories:
 ```bash
 dependencies
 {
-   compile 'com.github.karthi72:MyToast:1.0.1'
+   compile 'com.github.karthi72:MyToast:1.0.2'
  }
   ```
 
