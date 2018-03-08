@@ -9,6 +9,6 @@ import android.widget.Toast;
 
 public class Toastmsg {
     public void showtoast(Context cxt, String msg){
-        android.widget.Toast.makeText(cxt, "Yes ! Success", Toast.LENGTH_LONG).show();
+        android.widget.Toast.makeText(cxt, "Yes,Success!!", Toast.LENGTH_LONG).show();
     }
 }
